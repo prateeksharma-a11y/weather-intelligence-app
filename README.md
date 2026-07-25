@@ -4,6 +4,15 @@ A modern, responsive **Weather Intelligence Web Application** built in **Google 
 
 This application provides city geocoding, current weather metrics, 24-hour interactive forecast charts, 7-day weather outlooks, and automated activity planning recommendations. It is engineered to be 100% client-side compatible for zero-config deployment on **Cloudflare Pages**.
 
+### 🌐 Live Deployment URL
+**URL**: [https://weather-intelligence-app.prateek-sharma.workers.dev](https://weather-intelligence-app.prateek-sharma.workers.dev)
+
+---
+
+## 📹 Application Demo
+
+![Weather Intelligence App Demo](assets/media/App-Demo.gif)
+
 ---
 
 ## 🚀 Key Features
@@ -126,6 +135,9 @@ The app includes built-in verification features for assignment testing:
 ├── tsconfig.json            # TypeScript configuration
 ├── vite.config.ts           # Vite build configuration
 ├── index.html               # SPA Entry HTML
+├── assets/
+│   └── media/
+│       └── App-Demo.gif     # Application demo recording / GIF
 └── src/
     ├── App.tsx              # Main application entry component
     ├── main.tsx             # React DOM root mounting
