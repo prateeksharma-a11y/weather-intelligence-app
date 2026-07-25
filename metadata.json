@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "Weather Intelligence App with Open-Meteo API integration, 7-day forecast, hourly charts, planning recommendations, and Cloudflare Pages deployment readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
